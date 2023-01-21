@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alabamustapha
 - 👀 I’m interested in Machine Learning, AI and Data Engineering
-- 🌱 I’m currently learning Machine Learning and AI
+- 🌱 I’m currently learning Machine Learning, Data Engineering and AI
 - 💞️ I’m looking to collaborate on projects in Machine Learning 
 - 📫 How to reach me @alabamustapha 
 
